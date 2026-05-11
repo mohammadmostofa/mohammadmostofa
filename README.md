@@ -2,7 +2,7 @@
 
 
 # Hi 👋, I'm Mohammad Mostofa
-### 💻 Frontend Developer | 📊 Accounting Student | 🚀 Lifelong Learner
+###  Frontend Developer | Backend Developer |  Lifelong Learner
 
 ---
 
@@ -43,17 +43,15 @@ I enjoy exploring modern web technologies and solving problems with clean and ef
 
 ## 🌐 Connect With Me
 
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 📸 Instagram: https://instagram.com/yourprofile  
-- 🎵 TikTok: https://tiktok.com/@yourprofile  
-- 👻 Snapchat: yourusername  
+-    Email: mohammadmostofa.dev@gmail.com 
+-    LinkedIn: https://www.linkedin.com/in/mohammadmostofa
+-    Facebook: https://www.facebook.com/mohammadmostofa.dev
 
 ---
 
-## 📍 Location
+##  Location
 
-📌 Dhaka, Bangladesh
+   Sylhet, Bangladesh
 
 ---
 
