@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Web Developer and Designer** with 3 years of hands-on experience in modern web technologies. I specialize in building high-performance applications using **Next.js** and **React**. My focus is on combining seamless functionality with high-end design aesthetics like **Glassmorphism**.
+I am a **Web Developer and Designer** with 4 years of hands-on experience in modern web technologies. I specialize in building high-performance applications using **Next.js** and **React**. My focus is on combining seamless functionality with high-end design aesthetics like **Glassmorphism**.
 
 - 🔭 **Currently working on:** Next.js projects and advanced UI/UX designs.
 - 🌱 **Learning:** Scalable Backend Architecture and Cloud Deployment.
@@ -39,7 +39,7 @@ I am a **Web Developer and Designer** with 3 years of hands-on experience in mod
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode,vite,powershell,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode,vite,powershell,figma" />
   </a>
 </p>
 
