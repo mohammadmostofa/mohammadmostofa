@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://media.licdn.com/dms/image/v2/D5616AQF4juB-Y_rTfQ/profile-displaybackgroundimage-shrink_350_1400/B56Z3UIVYiHAAY-/0/1777380448983?e=1779926400&v=beta&t=_Z0QVUkh_8S9EbNILZ90qxhqBq32icBSVd5BFeRZVxo)
+
 
 # Hi 👋, I'm Mohammad Mostofa
 ### 💻 Frontend Developer | 📊 Accounting Student | 🚀 Lifelong Learner
